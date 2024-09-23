@@ -1,0 +1,3631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="2480"
+   height="3509"
+   viewBox="0 0 2480 3509"
+   sodipodi:docname="3-andar.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="975.79736"
+       y="519.44304"
+       width="1.511107"
+       height="14.733293"
+       id="rect64" />
+    <linearGradient
+       id="swatch353"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop353" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect353"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect352"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect351"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect348"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect347"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect346"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect345"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <linearGradient
+       id="linearGradient344"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop344" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop345" />
+    </linearGradient>
+    <rect
+       x="585.36508"
+       y="464.28763"
+       width="14.355517"
+       height="16.055512"
+       id="rect5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient344"
+       id="linearGradient345"
+       x1="1382.9545"
+       y1="1570.3531"
+       x2="1011.9778"
+       y2="1564.3087"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.9972014,101.68676)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch353"
+       id="linearGradient353"
+       x1="933.88127"
+       y1="1610.6512"
+       x2="1095.2269"
+       y2="1610.6512"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0177576,0,0,0.99777222,-13.356238,4.6810153)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.28"
+     inkscape:cx="869.92188"
+     inkscape:cy="701.95313"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="ESCADAS">
+    <rect
+       style="fill:none"
+       id="Escada-I"
+       width="132.8125"
+       height="98.4375"
+       x="836.71875"
+       y="357.8125"
+       inkscape:label="Escada-I" />
+    <rect
+       style="fill:none"
+       id="Escada-M"
+       width="132.8125"
+       height="96.875"
+       x="1516.4062"
+       y="358.59375"
+       inkscape:label="Escada-M" />
+    <rect
+       style="fill:none"
+       id="Escada-A"
+       width="132.03125"
+       height="96.09375"
+       x="1517.9688"
+       y="2767.1875"
+       inkscape:label="Escada-A" />
+    <rect
+       style="fill:none"
+       id="Escada-B"
+       width="130.92525"
+       height="96.12233"
+       x="836.92719"
+       y="2767.6602"
+       inkscape:label="Escada-B" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="RAMPA">
+    <rect
+       style="fill:none;stroke-width:1.00062"
+       id="rect232"
+       width="625.89996"
+       height="196.66409"
+       x="932.49707"
+       y="1513.6505" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="ADM-3">
+    <path
+       style="fill:none"
+       d="m 1505.0781,1965.625 h -91.9922 v -111.5234 h 140.2344 v 40.2343 h -48.0469 v 71.4844"
+       id="BANHEIRO FEMININO 3 ANDAR ADM"
+       inkscape:label="BanFem" />
+    <rect
+       style="fill:none"
+       id="COPA 3 ANDAR ADM"
+       width="44.726562"
+       height="68.554688"
+       x="1508.0078"
+       y="1897.2656"
+       inkscape:label="Copa" />
+    <rect
+       style="fill:none"
+       id="302 ADM"
+       width="140.59271"
+       height="196.94029"
+       x="1412.8325"
+       y="1968.8505"
+       inkscape:label="Sala 302" />
+    <rect
+       style="fill:none"
+       id="304 ADM"
+       width="140.86893"
+       height="196.94029"
+       x="1412.8325"
+       y="2168.0005"
+       inkscape:label="Sala 304" />
+    <rect
+       style="fill:none"
+       id="306 ADM (SALA DE PROFESSOR TURISMO)"
+       width="140.59271"
+       height="83.140289"
+       x="1412.8325"
+       y="2367.7029"
+       inkscape:label="Sala 306" />
+    <rect
+       style="fill:none"
+       id="308 ADM (SALA DE PROFESSOR TURISMO)"
+       width="141.14514"
+       height="82.864075"
+       x="1412.5563"
+       y="2453.3291"
+       inkscape:label="Sala 308" />
+    <rect
+       style="fill:none"
+       id="PROAD"
+       width="98.332039"
+       height="75.682617"
+       x="1313.1194"
+       y="2537.8503"
+       inkscape:label="PROAD" />
+    <rect
+       style="fill:none"
+       id="GABINETE DIRETOR E VICE-DIRETOR B"
+       width="98.332039"
+       height="149.15533"
+       x="1313.1194"
+       y="2615.7427"
+       inkscape:label="Gabinete Diretor e Vice-Diretor" />
+    <rect
+       style="fill:none"
+       id="PROAES"
+       width="101.09417"
+       height="72.367958"
+       x="1452.3311"
+       y="2692.53"
+       inkscape:label="PROAES" />
+    <rect
+       style="fill:none"
+       id="DIREÇÃO DO IM ARQUIVO E PROTOCOLO"
+       width="141.42133"
+       height="152.46989"
+       x="1413.1088"
+       y="2538.4028"
+       inkscape:label="ARQUIVO" />
+    <path
+       style="fill:none"
+       d="m 1753.5156,1966.2109 h -91.9922 v -33.789 h -48.4375 v -78.125 h 140.4297 v 112.1094"
+       id="BANHEIRO MASCULINO 3 ANDAR ADM"
+       inkscape:label="BanMas" />
+    <rect
+       style="fill:none"
+       id="RACK TERCEIRO ANDAR ADM"
+       width="45.3125"
+       height="31.445312"
+       x="1612.8906"
+       y="1934.7656"
+       inkscape:label="Rack" />
+    <rect
+       style="fill:none"
+       id="301 ADM"
+       width="141.40625"
+       height="196.48438"
+       x="1612.5"
+       y="1969.5312"
+       inkscape:label="Sala 301" />
+    <rect
+       style="fill:none"
+       id="303 ADM"
+       width="141.79688"
+       height="196.875"
+       x="1612.1094"
+       y="2168.75"
+       inkscape:label="Sala 303" />
+    <rect
+       style="fill:none"
+       id="305 ADM"
+       width="141.40625"
+       height="83.59375"
+       x="1612.5"
+       y="2367.9688"
+       inkscape:label="Sala 305" />
+    <rect
+       style="fill:none"
+       id="307 ADM (SALA DE PROFESSOR TURISMO)"
+       width="141.79688"
+       height="83.203125"
+       x="1612.1094"
+       y="2453.5156"
+       inkscape:label="Sala 307" />
+    <rect
+       style="fill:none"
+       id="311 ADM"
+       width="101.09417"
+       height="74.577667"
+       x="1611.9825"
+       y="2690.8728"
+       inkscape:label="Sala 311" />
+    <rect
+       style="fill:none"
+       id="GABINETE DIRETOR E VICE-DIRETOR A"
+       width="98.88446"
+       height="150.26019"
+       x="1755.6135"
+       y="2615.1902"
+       inkscape:label="Gabinete Diretor e Vice-Diretor" />
+    <rect
+       style="fill:none"
+       id="SAC"
+       width="96.67469"
+       height="74.025276"
+       x="1756.7184"
+       y="2538.9551"
+       inkscape:label="SAC" />
+    <rect
+       style="fill:none"
+       id="SPEAS"
+       width="140.3165"
+       height="151.91747"
+       x="1612.5349"
+       y="2538.9553"
+       inkscape:label="SPEAS" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="BIBLI_3">
+    <path
+       style="fill:none"
+       d="m 823.63281,1967.3828 h -92.1875 v -111.7187 h 140.03907 v 40.2343 H 823.4375 v 72.0704"
+       id="BANHEIRO FEMININO TERCEIRO ANDAR BIBLI"
+       inkscape:label="BanFem" />
+    <rect
+       style="fill:none"
+       id="COPA 3 ANDAR BIBLI"
+       width="45.022816"
+       height="68.777184"
+       x="826.43103"
+       y="1898.6921"
+       inkscape:label="Copa" />
+    <rect
+       style="fill:none"
+       id="302 BIBLI"
+       width="141.69757"
+       height="197.76892"
+       x="730.58496"
+       y="1969.4028"
+       inkscape:label="Sala 302" />
+    <rect
+       style="fill:none"
+       id="304 BIBLI"
+       width="141.42136"
+       height="196.94029"
+       x="730.58496"
+       y="2169.3816"
+       inkscape:label="Sala 304" />
+    <rect
+       style="fill:none"
+       id="306 BIBLI (SALA DE PROFESSOR PEDAGOGIA)"
+       width="140.86893"
+       height="83.968933"
+       x="731.13739"
+       y="2368.5315"
+       inkscape:label="Sala 306" />
+    <rect
+       style="fill:none"
+       id="308 BIBLI (SALA DE PROFESSOR PEDAGOGIA)"
+       width="141.69757"
+       height="82.864075"
+       x="730.58496"
+       y="2454.9863"
+       inkscape:label="Sala 308" />
+    <path
+       style="fill:none"
+       d="m 825.39063,2766.0156 v -89.8437 h 48.04687 v -137.5 H 630.85938 v 227.7344 h 194.92187"
+       id="BIBLIOTECA ESTANTERIA LIVROS A" />
+    <path
+       style="fill:none"
+       d="m 931.44531,1902.1484 v -47.0703 h 141.01559 v 113.2813 h -92.96871 v -34.5703 h -48.4375 v -32.0313"
+       id="BANHEIRO MASCULINO 3 ANDAR BIBLI"
+       inkscape:label="BanMas" />
+    <rect
+       style="fill:none"
+       id="RACK 3 ANDAR BIBLI"
+       width="45.214844"
+       height="31.054688"
+       x="931.54297"
+       y="1936.4258"
+       inkscape:label="Rack" />
+    <rect
+       style="fill:none"
+       id="301 BIBLI"
+       width="141.69757"
+       height="196.94029"
+       x="930.5636"
+       y="1970.5077"
+       inkscape:label="Sala 301" />
+    <rect
+       style="fill:none"
+       id="303 BIBLI"
+       width="141.42136"
+       height="196.66408"
+       x="930.83978"
+       y="2170.2102"
+       inkscape:label="Sala 303" />
+    <rect
+       style="fill:none"
+       id="305 BIBLI (SALA DE PROFESSOR PEDAGOGIA)"
+       width="141.97379"
+       height="83.140289"
+       x="930.28735"
+       y="2369.6365"
+       inkscape:label="Sala 305" />
+    <rect
+       style="fill:none"
+       id="307 BIBLI (SALA DE PROFESSOR PEDAGOGIA)"
+       width="142.25"
+       height="83.140289"
+       x="930.01117"
+       y="2454.9863"
+       inkscape:label="Sala 307" />
+    <rect
+       style="fill:none"
+       id="BIBLIOTECA ESTANTERIA LIVROS B"
+       width="242.57812"
+       height="225.78125"
+       x="929.6875"
+       y="2540.625"
+       inkscape:label="Biblioteca-2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="MULTI_3">
+    <path
+       style="fill:none"
+       d="m 1413.2813,1257.2266 h 91.6015 v 71.4843 h 48.4375 v 40.2344 h -140.4297 v -111.914"
+       id="BANHEIRO FEMININO 3 ANDAR MULTI"
+       inkscape:label="BanFem" />
+    <rect
+       style="fill:none"
+       id="COPA 3 ANDAR MULTI"
+       width="44.824219"
+       height="68.261719"
+       x="1508.3984"
+       y="1257.0312"
+       inkscape:label="Copa" />
+    <rect
+       style="fill:none"
+       id="301 MULTI"
+       width="140.39618"
+       height="196.50807"
+       x="1413.2812"
+       y="1057.4219"
+       inkscape:label="Sala 301" />
+    <rect
+       style="fill:none"
+       id="303 MULTI"
+       width="140.59271"
+       height="197.21651"
+       x="1413.1088"
+       y="857.36694"
+       inkscape:label="Sala 303" />
+    <rect
+       style="fill:none"
+       id="305 MULTI (SALA DE PROFESSOR ADMINISTRAÇÃO)"
+       width="141.42136"
+       height="83.416504"
+       x="1413.1088"
+       y="771.74078"
+       inkscape:label="Sala 305" />
+    <rect
+       style="fill:none"
+       id="307 MULTI (SALA DE PROFESSOR ADMINISTRAÇÃO)"
+       width="142.52621"
+       height="82.311646"
+       x="1412.28"
+       y="686.66699"
+       inkscape:label="Sala 307" />
+    <rect
+       style="fill:none"
+       id="309 MULTI"
+       width="241.13446"
+       height="149.70776"
+       x="1312.8431"
+       y="534.19708"
+       inkscape:label="Sala 309" />
+    <rect
+       style="fill:none"
+       id="DEPARTAMENTO LETRAS"
+       width="150.53641"
+       height="74.577667"
+       x="1312.8431"
+       y="457.96213"
+       inkscape:label="Departamento Letras" />
+    <rect
+       style="fill:none"
+       id="SALA DE PROFESSOR HISTÓRIA (3 ANDAR)"
+       width="88.112099"
+       height="48.613586"
+       x="1465.8655"
+       y="457.96213"
+       inkscape:label="Prof Historia" />
+    <path
+       style="fill:none"
+       d="m 1661.1328,1256.0547 h 92.7735 V 1368.75 h -141.0157 v -78.125 h 48.0469 v -34.5703"
+       id="BANHEIRO MASCULINO 3 ANDAR MULTI" />
+    <rect
+       style="fill:none"
+       id="RACK 3 ANDAR MULTI"
+       width="45.507812"
+       height="31.835938"
+       x="1612.8906"
+       y="1256.25"
+       inkscape:label="Rack" />
+    <rect
+       style="fill:none"
+       id="302 MULTI"
+       width="141.14514"
+       height="197.76892"
+       x="1612.8112"
+       y="1055.9646"
+       inkscape:label="Sala 302" />
+    <rect
+       style="fill:none"
+       id="304 MULTI"
+       width="141.42136"
+       height="197.21651"
+       x="1612.5349"
+       y="857.09076"
+       inkscape:label="Sala 304" />
+    <rect
+       style="fill:none"
+       id="306 MULTI (SALA DE PROFESSOR ADMINISTRAÇÃO)"
+       width="142.25"
+       height="84.797569"
+       x="1611.7063"
+       y="770.63593"
+       inkscape:label="Sala 306" />
+    <rect
+       style="fill:none"
+       id="308 MULTI (SALA DE PROFESSOR ADMINISTRAÇÃO)"
+       width="141.97379"
+       height="82.864075"
+       x="1611.7063"
+       y="686.39075"
+       inkscape:label="Sala 308" />
+    <rect
+       style="fill:none"
+       id="310 MULTI"
+       width="241.41068"
+       height="149.98398"
+       x="1612.5349"
+       y="533.64465"
+       inkscape:label="Sala 310" />
+    <rect
+       style="fill:none"
+       id="COORDENAÇÃO LETRAS"
+       width="151.36505"
+       height="74.577667"
+       x="1702.5806"
+       y="457.13348"
+       inkscape:label="Coordenação Letras" />
+    <rect
+       style="fill:none"
+       id="SALA DE PROFESSOR ECONOMIA (3 ANDAR)"
+       width="87.559708"
+       height="49.166019"
+       x="1612.8112"
+       y="457.68591"
+       inkscape:label="Prof Economia" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="INFO_3"
+     style="fill:none">
+    <rect
+       style="fill:none"
+       id="310 INFO"
+       width="240.30588"
+       height="147.49811"
+       x="931.11603"
+       y="534.74951"
+       inkscape:label="Sala 310" />
+    <rect
+       style="fill:none"
+       id="PROJETOS/TRANSPORTES"
+       width="85.523148"
+       height="72.403732"
+       x="932.53632"
+       y="458.08871"
+       inkscape:label="Proje" />
+    <rect
+       style="fill:none"
+       id="COORDENADORIA DE LOGISTICA PROJETOS/TRANSPORTES"
+       width="149.43153"
+       height="72.644196"
+       x="1021.9903"
+       y="458.10022"
+       inkscape:label="LogiProje" />
+    <rect
+       style="fill:none"
+       id="MATERIAIS"
+       width="85.626236"
+       height="72.64418"
+       x="785.96576"
+       y="458.23834"
+       inkscape:label="Mate" />
+    <rect
+       style="fill:none"
+       id="COORDENADORA DE LOGISTICA DE MATERIAIS"
+       width="149.70779"
+       height="72.782303"
+       x="632.11481"
+       y="458.37643"
+       inkscape:label="LogiMate" />
+    <rect
+       style="fill:none"
+       id="309 INFO (LABORATÓRIO DE INFORMÁTICA CIÊNCIA DA COMPUTAÇÃO)"
+       width="240.30582"
+       height="148.32669"
+       x="632.25293"
+       y="534.47327"
+       inkscape:label="Sala 309" />
+    <rect
+       style="fill:none"
+       id="307 INFO (SALA DE PROFESSOR MATEMÁTICA)"
+       width="140.59271"
+       height="81.483009"
+       x="732.24225"
+       y="686.94318"
+       inkscape:label="Sala 307" />
+    <rect
+       style="fill:none"
+       id="305 INFO (COORDENADORIA DE LOGISTICA)"
+       width="141.42133"
+       height="82.311646"
+       x="731.68982"
+       y="772.01697"
+       ry="0.27621359"
+       inkscape:label="Sala 305" />
+    <rect
+       style="fill:none"
+       id="303 INFO"
+       width="138.93544"
+       height="195.283"
+       x="732.51843"
+       y="858.19562"
+       ry="0.27621359"
+       inkscape:label="Sala 303" />
+    <rect
+       style="fill:none"
+       id="301 INFO"
+       width="138.93544"
+       height="196.11165"
+       x="732.51843"
+       y="1057.3456"
+       ry="0.27621359"
+       inkscape:label="Sala 301" />
+    <rect
+       style="fill:none"
+       id="COPA 3 ANDAR INFO"
+       width="44.470387"
+       height="67.672325"
+       x="826.98346"
+       y="1257.3242"
+       ry="0.27621359"
+       inkscape:label="Copa" />
+    <rect
+       style="fill:none"
+       id="RACK 3 ANDAR INFO"
+       width="44.746601"
+       height="31.212135"
+       x="931.66846"
+       y="1255.9432"
+       ry="0.27621359"
+       inkscape:label="Rack" />
+    <rect
+       style="fill:none"
+       id="308 INFO (SALA DE PROFESSOR MATEMÁTICA)"
+       width="141.01562"
+       height="81.054688"
+       x="930.85938"
+       y="686.71875"
+       ry="0.27621359"
+       inkscape:label="Sala 308" />
+    <rect
+       style="fill:none"
+       id="306 INFO (LABORATÓRIO DE INFORMÁTICA CIÊNCIA DA COMPUTAÇÃO)"
+       width="140.03906"
+       height="82.226562"
+       x="931.44531"
+       y="771.67969"
+       ry="0.27621359"
+       inkscape:label="Sala 306" />
+    <rect
+       style="fill:none"
+       id="304 INFO"
+       width="139.45312"
+       height="196.09375"
+       x="932.42188"
+       y="857.8125"
+       ry="0.27621359"
+       inkscape:label="Sala 304" />
+    <rect
+       style="fill:none"
+       id="302 INFO"
+       width="139.76407"
+       height="195.55922"
+       x="931.94464"
+       y="1057.0695"
+       inkscape:label="Sala 302" />
+    <path
+       style="fill:none"
+       d="m 732.17317,1257.1861 h 91.08143 v 71.6775 h 48.22978 v 39.1052 H 732.22656 v -110.7422"
+       id="BANHEIRO FEMININO 3 ANDAR INFO"
+       inkscape:label="BanFem" />
+    <path
+       style="fill:none"
+       d="m 980.55823,1256.2194 h 91.70287 v 111.8665 H 932.77328 v -45.8515 h 47.78495 v -3.3145 h -48.06116 v -27.6214 h 48.06116 v -35.0791"
+       id="BANHEIRO MASCULINO 3 ANDAR INFO"
+       inkscape:label="BanMas" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="300IL"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect6"
+       width="4"
+       height="232.3327"
+       x="628.43164"
+       y="454.65433" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect7"
+       width="254.24376"
+       height="4"
+       x="631.26489"
+       y="454.65433" />
+    <rect
+       style="fill:#000000;stroke-width:1.27669"
+       id="rect8"
+       width="248.22028"
+       height="4"
+       x="628.52032"
+       y="683.00653" />
+    <rect
+       style="fill:#000000;stroke-width:2.71295"
+       id="rect9"
+       width="4"
+       height="686.0426"
+       x="728.16473"
+       y="685.8537" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect10"
+       width="146.88167"
+       height="4"
+       x="728.82007"
+       y="768.19519" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect11"
+       width="145.46777"
+       height="4"
+       x="729.24371"
+       y="854.28247" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect12"
+       width="147.20076"
+       height="4"
+       x="728.2171"
+       y="1053.636" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect13"
+       width="146.4628"
+       height="4"
+       x="728.2171"
+       y="1253.181" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect14"
+       width="146.4628"
+       height="4"
+       x="728.31152"
+       y="1367.9305" />
+    <rect
+       style="fill:#000000;stroke-width:0.857673"
+       id="rect15"
+       width="4"
+       height="68.566505"
+       x="872.72992"
+       y="679.52869" />
+    <rect
+       style="fill:#000000;stroke-width:0.877528"
+       id="rect16"
+       width="4"
+       height="71.777603"
+       x="871.66138"
+       y="792.35693" />
+    <rect
+       style="fill:#000000;stroke-width:1.38886"
+       id="rect17"
+       width="4"
+       height="179.7977"
+       x="871.66138"
+       y="884.09882" />
+    <rect
+       style="fill:#000000;stroke-width:1.38472"
+       id="rect20"
+       width="4"
+       height="178.72919"
+       x="871.7052"
+       y="1084.1097" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect22"
+       width="4"
+       height="60.673954"
+       x="871.5946"
+       y="1280.9678" />
+    <rect
+       style="fill:#000000;stroke-width:0.877773"
+       id="rect23"
+       width="4"
+       height="71.818367"
+       x="823.33362"
+       y="1256.9789" />
+    <rect
+       style="fill:#000000;stroke-width:0.576219"
+       id="rect24"
+       width="50.563667"
+       height="4"
+       x="823.94348"
+       y="1324.7421" />
+    <rect
+       style="fill:#000000;stroke-width:1.27276"
+       id="rect25"
+       width="246.68822"
+       height="4"
+       x="629.16425"
+       y="531.01105" />
+    <rect
+       style="fill:#000000;stroke-width:0.747866"
+       id="rect26"
+       width="4"
+       height="52.133194"
+       x="781.59717"
+       y="481.72067" />
+    <rect
+       style="fill:#000000;stroke-width:0.315114"
+       id="rect27"
+       width="4"
+       height="9.2555323"
+       x="781.93109"
+       y="454.77643" />
+    <rect
+       style="fill:#000000;stroke-width:0.747866"
+       id="rect28"
+       width="4"
+       height="52.133194"
+       x="871.4859"
+       y="457.94623" />
+    <rect
+       style="fill:#000000;stroke-width:1.18942"
+       id="rect29"
+       width="4"
+       height="131.86604"
+       x="871.54462"
+       y="528.64795" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect30"
+       width="4"
+       height="11.144438"
+       x="872.72992"
+       y="764.90619" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g75"
+     inkscape:label="300IR"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect53"
+       width="4"
+       height="232.3327"
+       x="-1175.4767"
+       y="454.25363"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect54"
+       width="254.24376"
+       height="4"
+       x="-1172.6434"
+       y="454.25363"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27669"
+       id="rect55"
+       width="248.22028"
+       height="4"
+       x="-1175.3881"
+       y="682.60583"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.71295"
+       id="rect56"
+       width="4"
+       height="686.0426"
+       x="-1075.7437"
+       y="685.453"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect57"
+       width="146.88167"
+       height="4"
+       x="-1075.0883"
+       y="767.79449"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect58"
+       width="145.46777"
+       height="4"
+       x="-1074.6647"
+       y="853.88177"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect59"
+       width="147.20076"
+       height="4"
+       x="-1075.6913"
+       y="1053.2354"
+       transform="scale(-1,1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.980691"
+       id="rect60"
+       width="146.4628"
+       height="4"
+       x="-1075.6913"
+       y="1252.7804"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect61"
+       width="146.4628"
+       height="4"
+       x="-1075.5968"
+       y="1367.5299"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.857673"
+       id="rect62"
+       width="4"
+       height="68.566505"
+       x="-931.17834"
+       y="679.12799"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.5905"
+       id="rect63"
+       width="4"
+       height="235.79451"
+       x="-932.24689"
+       y="791.95624"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.51687"
+       id="rect65"
+       width="4"
+       height="214.47072"
+       x="-932.20306"
+       y="1047.9677"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect67"
+       width="4"
+       height="60.673954"
+       x="-932.31366"
+       y="1280.5671"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.61211"
+       id="rect68"
+       width="4"
+       height="34.92453"
+       x="-980.57465"
+       y="1256.5782"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect69"
+       width="50.897579"
+       height="4"
+       x="-980.67645"
+       y="1318.297"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27276"
+       id="rect70"
+       width="246.68822"
+       height="4"
+       x="-1174.7441"
+       y="530.61035"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.747866"
+       id="rect71"
+       width="4"
+       height="52.133194"
+       x="-1022.3112"
+       y="481.31998"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.315114"
+       id="rect72"
+       width="4"
+       height="9.2555323"
+       x="-1021.9772"
+       y="454.37573"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.747866"
+       id="rect73"
+       width="4"
+       height="52.133194"
+       x="-932.42236"
+       y="457.54553"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.18942"
+       id="rect74"
+       width="4"
+       height="131.86604"
+       x="-932.36365"
+       y="528.24725"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect75"
+       width="4"
+       height="11.144438"
+       x="-931.17834"
+       y="764.50549"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect76"
+       width="50.897579"
+       height="4"
+       x="-980.14221"
+       y="1287.1765"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g98"
+     inkscape:label="300ML"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect77"
+       width="4"
+       height="232.3327"
+       x="1309.7196"
+       y="454.8812" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect78"
+       width="254.24376"
+       height="4"
+       x="1312.5529"
+       y="454.8812" />
+    <rect
+       style="fill:#000000;stroke-width:1.27669"
+       id="rect79"
+       width="248.22028"
+       height="4"
+       x="1309.8082"
+       y="683.2334" />
+    <rect
+       style="fill:#000000;stroke-width:2.71295"
+       id="rect80"
+       width="4"
+       height="686.0426"
+       x="1409.4526"
+       y="686.08057" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect81"
+       width="146.88167"
+       height="4"
+       x="1410.108"
+       y="768.42206" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect82"
+       width="145.46777"
+       height="4"
+       x="1410.5316"
+       y="854.50934" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect83"
+       width="147.20076"
+       height="4"
+       x="1409.505"
+       y="1053.8629" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect84"
+       width="146.4628"
+       height="4"
+       x="1409.505"
+       y="1253.408" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect85"
+       width="146.4628"
+       height="4"
+       x="1409.5995"
+       y="1368.1575" />
+    <rect
+       style="fill:#000000;stroke-width:0.857673"
+       id="rect86"
+       width="4"
+       height="68.566505"
+       x="1554.0178"
+       y="679.75555" />
+    <rect
+       style="fill:#000000;stroke-width:0.877528"
+       id="rect87"
+       width="4"
+       height="71.777603"
+       x="1552.9493"
+       y="792.5838" />
+    <rect
+       style="fill:#000000;stroke-width:1.38886"
+       id="rect88"
+       width="4"
+       height="179.7977"
+       x="1552.9493"
+       y="884.32568" />
+    <rect
+       style="fill:#000000;stroke-width:1.38472"
+       id="rect89"
+       width="4"
+       height="178.72919"
+       x="1552.9932"
+       y="1084.3367" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect90"
+       width="4"
+       height="60.673954"
+       x="1552.8826"
+       y="1281.1947" />
+    <rect
+       style="fill:#000000;stroke-width:0.877773"
+       id="rect91"
+       width="4"
+       height="71.818367"
+       x="1504.6216"
+       y="1257.2058" />
+    <rect
+       style="fill:#000000;stroke-width:0.576219"
+       id="rect92"
+       width="50.563667"
+       height="4"
+       x="1505.2314"
+       y="1324.969" />
+    <rect
+       style="fill:#000000;stroke-width:1.27276"
+       id="rect93"
+       width="246.68822"
+       height="4"
+       x="1310.4521"
+       y="531.23792" />
+    <rect
+       style="fill:#000000;stroke-width:0.75729"
+       id="rect94"
+       width="4"
+       height="53.455414"
+       x="1462.8851"
+       y="457.20316" />
+    <rect
+       style="fill:#000000;stroke-width:0.524975"
+       id="rect96"
+       width="4"
+       height="25.688822"
+       x="1552.7738"
+       y="458.1731" />
+    <rect
+       style="fill:#000000;stroke-width:1.18942"
+       id="rect97"
+       width="4"
+       height="131.86604"
+       x="1552.8325"
+       y="528.87482" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect98"
+       width="4"
+       height="11.144438"
+       x="1554.0178"
+       y="765.13306" />
+    <rect
+       style="fill:#000000;stroke-width:0.778007"
+       id="rect121"
+       width="92.177536"
+       height="4"
+       x="1464.797"
+       y="504.74771" />
+    <rect
+       style="fill:#000000;stroke-width:0.778007"
+       id="rect122"
+       width="92.177536"
+       height="4"
+       x="1610.0521"
+       y="505.88104" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g120"
+     inkscape:label="300MR"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect99"
+       width="4"
+       height="232.3327"
+       x="-1856.7646"
+       y="454.4805"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect100"
+       width="254.24376"
+       height="4"
+       x="-1853.9314"
+       y="454.4805"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27669"
+       id="rect101"
+       width="248.22028"
+       height="4"
+       x="-1856.676"
+       y="682.8327"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.71295"
+       id="rect102"
+       width="4"
+       height="686.0426"
+       x="-1757.0316"
+       y="685.67987"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect103"
+       width="146.88167"
+       height="4"
+       x="-1756.3762"
+       y="768.02136"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect104"
+       width="145.46777"
+       height="4"
+       x="-1755.9526"
+       y="854.10864"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect105"
+       width="147.20076"
+       height="4"
+       x="-1756.9792"
+       y="1053.4623"
+       transform="scale(-1,1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.980691"
+       id="rect106"
+       width="146.4628"
+       height="4"
+       x="-1756.9792"
+       y="1253.0073"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect107"
+       width="146.4628"
+       height="4"
+       x="-1756.8848"
+       y="1367.7568"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.857673"
+       id="rect108"
+       width="4"
+       height="68.566505"
+       x="-1612.4663"
+       y="679.35486"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.5905"
+       id="rect109"
+       width="4"
+       height="235.79451"
+       x="-1613.5348"
+       y="792.18311"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.38813"
+       id="rect110"
+       width="4"
+       height="179.61044"
+       x="-1613.491"
+       y="1048.1946"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect111"
+       width="4"
+       height="60.673954"
+       x="-1613.6016"
+       y="1280.7941"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.61211"
+       id="rect112"
+       width="4"
+       height="34.92453"
+       x="-1661.8625"
+       y="1256.8052"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect113"
+       width="50.897579"
+       height="4"
+       x="-1661.9644"
+       y="1318.5239"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27276"
+       id="rect114"
+       width="246.68822"
+       height="4"
+       x="-1856.0321"
+       y="530.83722"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.769585"
+       id="rect115"
+       width="4"
+       height="55.20517"
+       x="-1703.5991"
+       y="455.90253"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.531741"
+       id="rect117"
+       width="4"
+       height="26.355293"
+       x="-1613.7103"
+       y="457.7724"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.18942"
+       id="rect118"
+       width="4"
+       height="131.86604"
+       x="-1613.6516"
+       y="528.47412"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect119"
+       width="4"
+       height="11.144438"
+       x="-1612.4663"
+       y="764.73236"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect120"
+       width="50.897579"
+       height="4"
+       x="-1661.4302"
+       y="1287.4034"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.294004"
+       id="rect123"
+       width="4"
+       height="8.0569906"
+       x="-1613.8439"
+       y="501.71506"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.263141"
+       id="rect124"
+       width="4"
+       height="6.4542198"
+       x="-1703.8661"
+       y="528.16083"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.396562"
+       id="rect171"
+       width="4"
+       height="14.658587"
+       x="-1613.491"
+       y="1248.4073"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.255324"
+       id="rect172"
+       width="4"
+       height="6.0764432"
+       x="-1466.8759"
+       y="527.98633"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g147"
+     inkscape:label="300AL"
+     transform="rotate(180,1583.2422,913.31898)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect125"
+       width="4"
+       height="232.3327"
+       x="-1856.7646"
+       y="-941.23511"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect126"
+       width="254.24376"
+       height="4"
+       x="-1853.9314"
+       y="-941.23511"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27377"
+       id="rect127"
+       width="247.08694"
+       height="4"
+       x="-1856.676"
+       y="-712.88293"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.82169"
+       id="rect128"
+       width="4"
+       height="742.13959"
+       x="-1757.0316"
+       y="-766.13275"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.979409"
+       id="rect129"
+       width="146.08028"
+       height="4"
+       x="-1756.3762"
+       y="-627.69427"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect130"
+       width="145.46777"
+       height="4"
+       x="-1755.9526"
+       y="-541.60699"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect131"
+       width="147.20076"
+       height="4"
+       x="-1756.9792"
+       y="-342.25342"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect132"
+       width="146.4628"
+       height="4"
+       x="-1756.9792"
+       y="-142.70837"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect133"
+       width="146.4628"
+       height="4"
+       x="-1756.8848"
+       y="-27.958866"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.24201"
+       id="rect134"
+       width="4"
+       height="143.78598"
+       x="-1613.489"
+       y="-793.04944"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.58056"
+       id="rect135"
+       width="4"
+       height="232.85609"
+       x="-1613.6685"
+       y="-604.06677"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.38049"
+       id="rect137"
+       width="4"
+       height="177.63939"
+       x="-1613.4911"
+       y="-347.55359"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect138"
+       width="4"
+       height="60.673954"
+       x="-1613.6017"
+       y="-114.92163"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.877773"
+       id="rect139"
+       width="4"
+       height="71.818367"
+       x="-1661.8627"
+       y="-138.91052"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.576219"
+       id="rect140"
+       width="50.563667"
+       height="4"
+       x="-1661.2528"
+       y="-71.147339"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.909752"
+       id="rect141"
+       width="126.03779"
+       height="4"
+       x="-1736.0591"
+       y="-866.7807"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.900752"
+       id="rect142"
+       width="4"
+       height="75.627083"
+       x="-1716.6885"
+       y="-939.98169"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.730041"
+       id="rect143"
+       width="4"
+       height="49.677647"
+       x="-1613.7104"
+       y="-937.94324"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.366037"
+       id="rect144"
+       width="4"
+       height="12.488596"
+       x="-1613.6517"
+       y="-842.30829"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect145"
+       width="4"
+       height="11.144438"
+       x="-1613.6685"
+       y="-630.98328"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.397497"
+       id="rect173"
+       width="4"
+       height="14.727852"
+       x="-1614.136"
+       y="-148.84695"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.366037"
+       id="rect175"
+       width="4"
+       height="12.488596"
+       x="-1613.2739"
+       y="-871.01935"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.18394"
+       id="rect178"
+       width="4"
+       height="130.65555"
+       x="-1756.2235"
+       y="-939.44745"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.791633"
+       id="rect179"
+       width="102.26335"
+       height="3.7328715"
+       x="-1854.397"
+       y="-789.58057"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g170"
+     inkscape:label="300AR"
+     transform="rotate(180,1583.2422,913.31898)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect148"
+       width="4"
+       height="232.3327"
+       x="1309.7196"
+       y="-941.6358" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect149"
+       width="254.24376"
+       height="4"
+       x="1312.5529"
+       y="-941.6358" />
+    <rect
+       style="fill:#000000;stroke-width:1.27182"
+       id="rect150"
+       width="246.33139"
+       height="4"
+       x="1309.8082"
+       y="-713.28363" />
+    <rect
+       style="fill:#000000;stroke-width:2.82016"
+       id="rect151"
+       width="4"
+       height="741.3382"
+       x="1409.4526"
+       y="-765.73206" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect152"
+       width="146.88167"
+       height="4"
+       x="1410.108"
+       y="-628.09497" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect153"
+       width="145.46777"
+       height="4"
+       x="1410.5316"
+       y="-542.00769" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect154"
+       width="147.20076"
+       height="4"
+       x="1409.505"
+       y="-342.65405" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.980691"
+       id="rect155"
+       width="146.4628"
+       height="4"
+       x="1409.505"
+       y="-143.10901" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect156"
+       width="146.4628"
+       height="4"
+       x="1409.5995"
+       y="-28.359501" />
+    <rect
+       style="fill:#000000;stroke-width:1.2459"
+       id="rect157"
+       width="4"
+       height="144.68852"
+       x="1552.8846"
+       y="-792.88348" />
+    <rect
+       style="fill:#000000;stroke-width:1.38537"
+       id="rect158"
+       width="4"
+       height="178.89613"
+       x="1553.2166"
+       y="-512.57532" />
+    <rect
+       style="fill:#000000;stroke-width:1.38694"
+       id="rect159"
+       width="4"
+       height="179.30142"
+       x="1552.9933"
+       y="-312.75244" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect160"
+       width="4"
+       height="60.673954"
+       x="1552.8827"
+       y="-115.32227" />
+    <rect
+       style="fill:#000000;stroke-width:0.61211"
+       id="rect161"
+       width="4"
+       height="34.92453"
+       x="1504.6217"
+       y="-139.31116" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect162"
+       width="50.897579"
+       height="4"
+       x="1504.5199"
+       y="-77.592407" />
+    <rect
+       style="fill:#000000;stroke-width:0.911346"
+       id="rect163"
+       width="126.48038"
+       height="4"
+       x="1430.1256"
+       y="-866.34766" />
+    <rect
+       style="fill:#000000;stroke-width:0.907962"
+       id="rect164"
+       width="4"
+       height="76.842575"
+       x="1449.9949"
+       y="-940.48096" />
+    <rect
+       style="fill:#000000;stroke-width:0.735306"
+       id="rect165"
+       width="4"
+       height="50.396858"
+       x="1552.7739"
+       y="-938.34393" />
+    <rect
+       style="fill:#000000;stroke-width:0.372855"
+       id="rect166"
+       width="4"
+       height="12.958026"
+       x="1552.4548"
+       y="-842.8006" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect167"
+       width="4"
+       height="11.144438"
+       x="1554.0179"
+       y="-631.38397" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect168"
+       width="50.897579"
+       height="4"
+       x="1505.0541"
+       y="-108.7129" />
+    <rect
+       style="fill:#000000;stroke-width:0.868241"
+       id="rect174"
+       width="4"
+       height="70.266502"
+       x="1553.2166"
+       y="-603.72028" />
+    <rect
+       style="fill:#000000;stroke-width:1.18461"
+       id="rect176"
+       width="4"
+       height="130.80254"
+       x="1410.0382"
+       y="-939.52307" />
+    <rect
+       style="fill:#000000;stroke-width:0.821239"
+       id="rect177"
+       width="102.70594"
+       height="4"
+       x="1312.3219"
+       y="-789.14752" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g297"
+     inkscape:label="300BL"
+     transform="rotate(180,1583.2422,913.31898)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect274"
+       width="4"
+       height="232.3327"
+       x="-2538.2739"
+       y="-942.74622"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect275"
+       width="254.24376"
+       height="4"
+       x="-2535.4407"
+       y="-942.74622"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.27377"
+       id="rect276"
+       width="247.08694"
+       height="4"
+       x="-2538.1853"
+       y="-714.39404"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.71705"
+       id="rect277"
+       width="4"
+       height="688.11755"
+       x="-2438.5408"
+       y="-713.62183"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.979409"
+       id="rect278"
+       width="146.08028"
+       height="4"
+       x="-2437.8855"
+       y="-629.20538"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect279"
+       width="145.46777"
+       height="4"
+       x="-2437.4619"
+       y="-543.1181"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect280"
+       width="147.20076"
+       height="4"
+       x="-2438.4885"
+       y="-343.76453"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect281"
+       width="146.4628"
+       height="4"
+       x="-2438.4885"
+       y="-144.21948"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect282"
+       width="146.4628"
+       height="4"
+       x="-2438.394"
+       y="-29.469973"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.829109"
+       id="rect283"
+       width="4"
+       height="64.075089"
+       x="-2294.9983"
+       y="-714.84967"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.58056"
+       id="rect284"
+       width="4"
+       height="232.85609"
+       x="-2295.1777"
+       y="-605.57788"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.38049"
+       id="rect285"
+       width="4"
+       height="177.63939"
+       x="-2295.0002"
+       y="-349.0647"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect286"
+       width="4"
+       height="60.673954"
+       x="-2295.1108"
+       y="-116.43274"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.877773"
+       id="rect287"
+       width="4"
+       height="71.818367"
+       x="-2343.3718"
+       y="-140.42163"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.576219"
+       id="rect288"
+       width="50.563667"
+       height="4"
+       x="-2342.762"
+       y="-72.658447"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect293"
+       width="4"
+       height="11.144438"
+       x="-2295.1777"
+       y="-632.49438"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.397497"
+       id="rect294"
+       width="4"
+       height="14.727852"
+       x="-2295.6453"
+       y="-150.35806"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.00054"
+       id="rect321"
+       width="4"
+       height="93.31086"
+       x="-2341.8301"
+       y="-941.99066"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.570179"
+       id="rect322"
+       width="49.509705"
+       height="4"
+       x="-2340.874"
+       y="-852.67804"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.750574"
+       id="rect323"
+       width="4"
+       height="52.510971"
+       x="-2297.4414"
+       y="-941.23511"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g321"
+     inkscape:label="300BR"
+     transform="rotate(180,1583.2422,913.31898)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:1.57878"
+       id="rect298"
+       width="4"
+       height="232.3327"
+       x="1991.2289"
+       y="-943.14691" />
+    <rect
+       style="fill:#000000;stroke-width:1.2921"
+       id="rect299"
+       width="254.24376"
+       height="4"
+       x="1994.0621"
+       y="-943.14691" />
+    <rect
+       style="fill:#000000;stroke-width:1.27182"
+       id="rect300"
+       width="246.33139"
+       height="4"
+       x="1991.3175"
+       y="-714.79474" />
+    <rect
+       style="fill:#000000;stroke-width:2.71994"
+       id="rect301"
+       width="4"
+       height="689.58276"
+       x="2090.9619"
+       y="-715.48773" />
+    <rect
+       style="fill:#000000;stroke-width:0.982092"
+       id="rect302"
+       width="146.88167"
+       height="4"
+       x="2091.6172"
+       y="-629.60608" />
+    <rect
+       style="fill:#000000;stroke-width:0.977355"
+       id="rect303"
+       width="145.46777"
+       height="4"
+       x="2092.0408"
+       y="-543.5188" />
+    <rect
+       style="fill:#000000;stroke-width:0.983159"
+       id="rect304"
+       width="147.20076"
+       height="4"
+       x="2091.0142"
+       y="-344.16516" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.980691"
+       id="rect305"
+       width="146.4628"
+       height="4"
+       x="2091.0142"
+       y="-144.62012" />
+    <rect
+       style="fill:#000000;stroke-width:0.980691"
+       id="rect306"
+       width="146.4628"
+       height="4"
+       x="2091.1086"
+       y="-29.870607" />
+    <rect
+       style="fill:#000000;stroke-width:0.83735"
+       id="rect307"
+       width="4"
+       height="65.355408"
+       x="2234.3938"
+       y="-715.06146" />
+    <rect
+       style="fill:#000000;stroke-width:1.38537"
+       id="rect308"
+       width="4"
+       height="178.89613"
+       x="2234.7258"
+       y="-514.08643" />
+    <rect
+       style="fill:#000000;stroke-width:1.38694"
+       id="rect309"
+       width="4"
+       height="179.30142"
+       x="2234.5024"
+       y="-314.26355" />
+    <rect
+       style="fill:#000000;stroke-width:0.806799"
+       id="rect310"
+       width="4"
+       height="60.673954"
+       x="2234.3918"
+       y="-116.83338" />
+    <rect
+       style="fill:#000000;stroke-width:0.61211"
+       id="rect311"
+       width="4"
+       height="34.92453"
+       x="2186.1309"
+       y="-140.82227" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect312"
+       width="50.897579"
+       height="4"
+       x="2186.0291"
+       y="-79.103516" />
+    <rect
+       style="fill:#000000;stroke-width:0.968432"
+       id="rect315"
+       width="4"
+       height="87.418983"
+       x="2236.5498"
+       y="-939.47729" />
+    <rect
+       style="fill:#000000;stroke-width:0.345776"
+       id="rect317"
+       width="4"
+       height="11.144438"
+       x="2235.5271"
+       y="-632.89508" />
+    <rect
+       style="fill:#000000;stroke-width:0.578119"
+       id="rect318"
+       width="50.897579"
+       height="4"
+       x="2186.5632"
+       y="-110.22401" />
+    <rect
+       style="fill:#000000;stroke-width:0.868241"
+       id="rect319"
+       width="4"
+       height="70.266502"
+       x="2234.7258"
+       y="-605.23138" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="300P">
+    <rect
+       style="fill:#000000;stroke-width:0.761577"
+       id="rect325"
+       width="4"
+       height="54.062859"
+       x="870.71246"
+       y="-1855.9933"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.445748"
+       id="rect324"
+       width="30.258167"
+       height="4"
+       x="844.31128"
+       y="-1805.8912"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.03829"
+       id="rect326"
+       width="4"
+       height="387.26196"
+       x="844.36255"
+       y="-1805.9379"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.443919"
+       id="rect327"
+       width="30.010252"
+       height="4"
+       x="845.9057"
+       y="-1422.8262"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.761577"
+       id="rect328"
+       width="4"
+       height="54.062859"
+       x="871.91449"
+       y="-1422.1765"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.761577"
+       id="rect329"
+       width="4"
+       height="54.062859"
+       x="928.94641"
+       y="-1422.043"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.02992"
+       id="rect330"
+       width="627.50989"
+       height="4"
+       x="928.84912"
+       y="-1424.8296"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.767201"
+       id="rect331"
+       width="4"
+       height="54.864243"
+       x="1552.5579"
+       y="-1423.1115"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.767201"
+       id="rect332"
+       width="4"
+       height="54.864243"
+       x="1609.7902"
+       y="-1422.5104"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.754013"
+       id="rect333"
+       width="4"
+       height="52.994343"
+       x="-1613.9016"
+       y="-1853.8562"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.532696"
+       id="rect334"
+       width="43.213902"
+       height="4"
+       x="-1653.7927"
+       y="-1804.9562"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.03231"
+       id="rect335"
+       width="4"
+       height="384.99136"
+       x="-1654.0085"
+       y="-1803.8008"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.537613"
+       id="rect336"
+       width="44.015285"
+       height="4"
+       x="-1653.9054"
+       y="-1422.8883"
+       transform="scale(-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.02992"
+       id="rect337"
+       width="627.50989"
+       height="4"
+       x="931.39636"
+       y="-1515.119"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.47266"
+       id="rect338"
+       width="4"
+       height="202.15135"
+       x="931.40198"
+       y="-1712.931"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.02809"
+       id="rect339"
+       width="626.37659"
+       height="4"
+       x="932.77393"
+       y="-1712.9406"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.13025"
+       id="rect340"
+       width="4"
+       height="119.07439"
+       x="1555.1382"
+       y="-1712.8394"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.439676"
+       id="rect341"
+       width="4"
+       height="18.019106"
+       x="1555.265"
+       y="-1530.3098"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:url(#linearGradient345);fill-opacity:1;stroke-width:1.24303"
+       id="rect342"
+       width="543.99854"
+       height="70.644249"
+       x="1014.4169"
+       y="1628.6603" />
+    <rect
+       style="fill:#000000;stroke-width:1.88548"
+       id="rect345"
+       width="541.38385"
+       height="4"
+       x="1016.5914"
+       y="-1530.3453"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.87588"
+       id="rect349"
+       width="535.88483"
+       height="4"
+       x="1020.8843"
+       y="-1697.3007"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.89234"
+       id="rect350"
+       width="545.32922"
+       height="4"
+       x="1011.8019"
+       y="-1629.9843"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.89171"
+       id="rect351"
+       width="544.96722"
+       height="4"
+       x="1012.3361"
+       y="-1597.6617"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.624037"
+       id="rect353"
+       width="4"
+       height="36.298813"
+       x="1010.4205"
+       y="-1630.0024"
+       transform="scale(1,-1)" />
+    <path
+       style="fill:none;stroke:url(#linearGradient353);stroke-width:4.24001;stroke-linecap:butt;stroke-dasharray:none"
+       id="path353"
+       sodipodi:type="arc"
+       sodipodi:cx="1019.2139"
+       sodipodi:cy="1611.744"
+       sodipodi:rx="82.105362"
+       sodipodi:ry="83.553162"
+       sodipodi:start="1.5281571"
+       sodipodi:end="4.7116756"
+       sodipodi:arc-type="arc"
+       d="m 1022.7138,1695.2212 a 82.105362,83.553162 0 0 1 -73.39942,-39.6439 82.105362,83.553162 0 0 1 -1.8011,-84.5425 82.105362,83.553162 0 0 1 71.64212,-42.8439"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#000000;stroke-width:0.761577"
+       id="rect354"
+       width="4"
+       height="54.062859"
+       x="928.89008"
+       y="-1856.3711"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:2.02809"
+       id="rect355"
+       width="626.37659"
+       height="4"
+       x="928.99615"
+       y="-1803.6069"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.762517"
+       id="rect356"
+       width="4"
+       height="54.196423"
+       x="-1557.0033"
+       y="-1853.8562"
+       transform="scale(-1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g189"
+     inkscape:label="ESC"
+     transform="translate(1799.6182,1437.601)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.945407"
+       id="rect183"
+       width="136.11502"
+       height="4"
+       x="-285.08011"
+       y="-1080.6416" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect184"
+       width="4"
+       height="97.704109"
+       x="-285.26602"
+       y="-1080.2612" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.627647"
+       id="rect185"
+       width="59.993008"
+       height="4"
+       x="-248.0582"
+       y="-1046.075" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect186"
+       width="4"
+       height="97.704109"
+       x="-152.77031"
+       y="-1079.7271" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.634526"
+       id="rect187"
+       width="61.315228"
+       height="4"
+       x="-248.81375"
+       y="-1016.7974" />
+    <rect
+       style="fill:#000000;stroke-width:0.596368"
+       id="rect188"
+       width="4"
+       height="33.151505"
+       x="-249.56613"
+       y="-1045.978" />
+    <rect
+       style="fill:#000000;stroke-width:0.597268"
+       id="rect189"
+       width="4"
+       height="33.251678"
+       x="-191.67184"
+       y="-1046.0781" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.945407"
+       id="rect1"
+       width="136.11502"
+       height="4"
+       x="-965.28094"
+       y="-1081.0787" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect2"
+       width="4"
+       height="97.704109"
+       x="-965.46686"
+       y="-1080.6984" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.627647"
+       id="rect3"
+       width="59.993008"
+       height="4"
+       x="-928.25903"
+       y="-1046.5121" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect4"
+       width="4"
+       height="97.704109"
+       x="-832.97119"
+       y="-1080.1642" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.634526"
+       id="rect18"
+       width="61.315228"
+       height="4"
+       x="-929.01459"
+       y="-1017.2344" />
+    <rect
+       style="fill:#000000;stroke-width:0.596368"
+       id="rect19"
+       width="4"
+       height="33.151505"
+       x="-929.76697"
+       y="-1046.4152" />
+    <rect
+       style="fill:#000000;stroke-width:0.597268"
+       id="rect21"
+       width="4"
+       height="33.251678"
+       x="-871.87268"
+       y="-1046.5153" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.945407"
+       id="rect31"
+       width="136.11502"
+       height="4"
+       x="-283.47733"
+       y="-1428.2776"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect32"
+       width="4"
+       height="97.704109"
+       x="-283.66324"
+       y="-1427.8972"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.627647"
+       id="rect33"
+       width="59.993008"
+       height="4"
+       x="-246.45543"
+       y="-1393.7109"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect34"
+       width="4"
+       height="97.704109"
+       x="-151.16754"
+       y="-1427.363"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.634526"
+       id="rect35"
+       width="61.315228"
+       height="4"
+       x="-247.21098"
+       y="-1364.4333"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.596368"
+       id="rect36"
+       width="4"
+       height="33.151505"
+       x="-247.96336"
+       y="-1393.614"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.597268"
+       id="rect37"
+       width="4"
+       height="33.251678"
+       x="-190.06908"
+       y="-1393.7141"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.945407"
+       id="rect38"
+       width="136.11502"
+       height="4"
+       x="-964.98657"
+       y="-1429.0331"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect39"
+       width="4"
+       height="97.704109"
+       x="-965.17249"
+       y="-1428.6527"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.627647"
+       id="rect40"
+       width="59.993008"
+       height="4"
+       x="-927.96472"
+       y="-1394.4664"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:1.02381"
+       id="rect41"
+       width="4"
+       height="97.704109"
+       x="-832.67682"
+       y="-1428.1185"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.634526"
+       id="rect42"
+       width="61.315228"
+       height="4"
+       x="-928.72028"
+       y="-1365.1888"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.596368"
+       id="rect43"
+       width="4"
+       height="33.151505"
+       x="-929.47266"
+       y="-1394.3695"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#000000;stroke-width:0.597268"
+       id="rect44"
+       width="4"
+       height="33.251678"
+       x="-871.57837"
+       y="-1394.4696"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Nomes">
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="704.84607"
+       y="493.53265"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="704.84607"
+         y="493.53265"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">COORDENADORA  DE</tspan><tspan
+         sodipodi:role="line"
+         x="704.84607"
+         y="505.66422"
+         id="tspan46"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">LOGISTICA DE MATERIAIS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="826.22845"
+       y="497.12613"
+       id="text48"><tspan
+         sodipodi:role="line"
+         x="826.22845"
+         y="497.12613"
+         id="tspan48"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">MATERIAIS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="749.29541"
+       y="606.38171"
+       id="text50"><tspan
+         sodipodi:role="line"
+         x="749.29541"
+         y="606.38171"
+         id="tspan50"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">LABORATÓRIO DE INFORMÁTICA</tspan><tspan
+         sodipodi:role="line"
+         x="749.29541"
+         y="618.48706"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan51">CIÊNCIA DA COMPUTAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="976.96143"
+       y="490.70395"
+       id="text52"><tspan
+         sodipodi:role="line"
+         x="976.96143"
+         y="490.70395"
+         id="tspan52"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">PROJETOS/</tspan><tspan
+         sodipodi:role="line"
+         x="976.96143"
+         y="502.80933"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan53">TRANSPORTES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:4.188"
+       x="1026.3784"
+       y="481.27756"
+       id="text65"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="1026.3784"
+         y="481.27756">   COORDENADORIA </tspan><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="1026.3784"
+         y="493.01093">           DE </tspan><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="1026.3784"
+         y="504.74429">      LOGISTICA</tspan><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="1026.3784"
+         y="516.47766">PROJETOS/TRANSPORTES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1048.3612"
+       y="613.85913"
+       id="text67"><tspan
+         sodipodi:role="line"
+         x="1048.3612"
+         y="613.85913"
+         id="tspan67"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 310</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="799.93164"
+       y="725.25171"
+       id="text68"><tspan
+         sodipodi:role="line"
+         x="799.93164"
+         y="725.25171"
+         id="tspan68"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="799.93164"
+         y="737.35706"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan69">MATEMÁTICA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1002.9493"
+       y="726.0531"
+       id="text71"><tspan
+         sodipodi:role="line"
+         x="1002.9493"
+         y="726.0531"
+         id="tspan70"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1002.9493"
+         y="738.15845"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan71">MATEMÁTICA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:4.188"
+       x="938.20361"
+       y="806.64215"
+       id="text73"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="938.20361"
+         y="806.64215">       LABORATÓRIO </tspan><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="938.20361"
+         y="816.90881">     DE INFORMÁTICA </tspan><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="938.20361"
+         y="827.17548">CIÊNCIA DA COMPUTAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="802.45398"
+       y="810.73499"
+       id="text75"><tspan
+         sodipodi:role="line"
+         x="802.45398"
+         y="810.73499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan75">COORDENADORIA DE</tspan><tspan
+         sodipodi:role="line"
+         x="802.45398"
+         y="822.84033"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan76">LOGISTICA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="801.53448"
+       y="957.38641"
+       id="text77"><tspan
+         sodipodi:role="line"
+         x="801.53448"
+         y="957.38641"
+         id="tspan77"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 303</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1002.8895"
+       y="960.78638"
+       id="text78"><tspan
+         sodipodi:role="line"
+         x="1002.8895"
+         y="960.78638"
+         id="tspan78"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 304</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1004.7784"
+       y="1158.7415"
+       id="text79"><tspan
+         sodipodi:role="line"
+         x="1004.7784"
+         y="1158.7415"
+         id="tspan79"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 302</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="801.15674"
+       y="1159.1193"
+       id="text80"><tspan
+         sodipodi:role="line"
+         x="801.15674"
+         y="1159.1193"
+         id="tspan80"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 301</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="800.02344"
+       y="1343.8521"
+       id="text81"><tspan
+         sodipodi:role="line"
+         x="800.02344"
+         y="1343.8521"
+         id="tspan81"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO FEMININO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1003.6451"
+       y="1343.8521"
+       id="text82"><tspan
+         sodipodi:role="line"
+         x="1003.6451"
+         y="1343.8521"
+         id="tspan82"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO MASCULINO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="855.17883"
+       y="1302.6744"
+       id="text83"><tspan
+         sodipodi:role="line"
+         x="855.17883"
+         y="1302.6744"
+         id="tspan83"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">COPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="956.80078"
+       y="1276.6078"
+       id="text84"><tspan
+         sodipodi:role="line"
+         x="956.80078"
+         y="1276.6078"
+         id="tspan84"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">RACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="802.16046"
+       y="1885.5886"
+       id="text85"><tspan
+         sodipodi:role="line"
+         x="802.16046"
+         y="1885.5886"
+         id="tspan85"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO FEMININO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1005.7821"
+       y="1885.5886"
+       id="text86"><tspan
+         sodipodi:role="line"
+         x="1005.7821"
+         y="1885.5886"
+         id="tspan86"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO MASCULINO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="848.7677"
+       y="1919.7412"
+       id="text87"><tspan
+         sodipodi:role="line"
+         x="848.7677"
+         y="1919.7412"
+         id="tspan87"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">COPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="954.6637"
+       y="1954.58"
+       id="text88"><tspan
+         sodipodi:role="line"
+         x="954.6637"
+         y="1954.58"
+         id="tspan88"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">RACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1000.6098"
+       y="2072.1167"
+       id="text89"><tspan
+         sodipodi:role="line"
+         x="1000.6098"
+         y="2072.1167"
+         id="tspan89"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 301</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="798.66064"
+       y="2072.6509"
+       id="text90"><tspan
+         sodipodi:role="line"
+         x="798.66064"
+         y="2072.6509"
+         id="tspan90"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 302</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1001.144"
+       y="2271.9287"
+       id="text91"><tspan
+         sodipodi:role="line"
+         x="1001.144"
+         y="2271.9287"
+         id="tspan91"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 303</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1000.6097"
+       y="2408.6985"
+       id="text92"><tspan
+         sodipodi:role="line"
+         x="1000.6097"
+         y="2408.6985"
+         id="tspan92"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1000.6097"
+         y="2420.804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan97">PEDAGOGIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="802.93451"
+       y="2271.929"
+       id="text96"><tspan
+         sodipodi:role="line"
+         x="802.93451"
+         y="2271.929"
+         id="tspan96"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 304</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="802.40033"
+       y="2407.6301"
+       id="text99"><tspan
+         sodipodi:role="line"
+         x="802.40033"
+         y="2407.6301"
+         id="tspan98"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="802.40033"
+         y="2419.7356"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan99">PEDAGOGIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1000.6097"
+       y="2492.5769"
+       id="text101"><tspan
+         sodipodi:role="line"
+         x="1000.6097"
+         y="2492.5769"
+         id="tspan100"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1000.6097"
+         y="2504.6824"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan101">PEDAGOGIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="798.66052"
+       y="2493.1113"
+       id="text103"><tspan
+         sodipodi:role="line"
+         x="798.66052"
+         y="2493.1113"
+         id="tspan102"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="798.66052"
+         y="2505.2168"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan103">PEDAGOGIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="754.3172"
+       y="2642.7034"
+       id="text105"><tspan
+         sodipodi:role="line"
+         x="754.3172"
+         y="2642.7034"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan105">BIBLIOTECA</tspan><tspan
+         sodipodi:role="line"
+         x="754.3172"
+         y="2654.8088"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan106">ESTANTERIA LIVROS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1046.5558"
+       y="2643.2375"
+       id="text108"><tspan
+         sodipodi:role="line"
+         x="1046.5558"
+         y="2643.2375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan107">BIBLIOTECA</tspan><tspan
+         sodipodi:role="line"
+         x="1046.5558"
+         y="2655.343"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan108">ESTANTERIA LIVROS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1386.9387"
+       y="493.0007"
+       id="text110"><tspan
+         sodipodi:role="line"
+         x="1386.9387"
+         y="493.0007"
+         id="tspan110"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">DEPARTAMENTO</tspan><tspan
+         sodipodi:role="line"
+         x="1386.9387"
+         y="505.10608"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan163">LETRAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1510.0043"
+       y="480.12616"
+       id="text111"><tspan
+         sodipodi:role="line"
+         x="1510.0043"
+         y="480.12616"
+         id="tspan111"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROF.</tspan><tspan
+         sodipodi:role="line"
+         x="1510.0043"
+         y="492.23154"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan160">HISTORIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1428.538"
+       y="613.1817"
+       id="text113"><tspan
+         sodipodi:role="line"
+         x="1428.538"
+         y="613.1817"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan113">SALA 309</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1775.9592"
+       y="493.72617"
+       id="text117"><tspan
+         sodipodi:role="line"
+         x="1775.9592"
+         y="493.72617"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan117">COORDENAÇÃO</tspan><tspan
+         sodipodi:role="line"
+         x="1775.9592"
+         y="505.83154"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan164">LETRAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1726.8483"
+       y="615.37024"
+       id="text118"><tspan
+         sodipodi:role="line"
+         x="1726.8483"
+         y="615.37024"
+         id="tspan118"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 310</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1478.4187"
+       y="726.76282"
+       id="text120"><tspan
+         sodipodi:role="line"
+         x="1478.4187"
+         y="726.76282"
+         id="tspan119"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1478.4187"
+         y="738.86816"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan120">ADMINISTRAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1480.0215"
+       y="958.89752"
+       id="text127"><tspan
+         sodipodi:role="line"
+         x="1480.0215"
+         y="958.89752"
+         id="tspan127"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 303</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1681.3766"
+       y="962.29749"
+       id="text128"><tspan
+         sodipodi:role="line"
+         x="1681.3766"
+         y="962.29749"
+         id="tspan128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 304</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1683.2654"
+       y="1160.2526"
+       id="text129"><tspan
+         sodipodi:role="line"
+         x="1683.2654"
+         y="1160.2526"
+         id="tspan129"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 302</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1479.6438"
+       y="1160.6304"
+       id="text130"><tspan
+         sodipodi:role="line"
+         x="1479.6438"
+         y="1160.6304"
+         id="tspan130"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 301</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1478.5105"
+       y="1345.3632"
+       id="text131"><tspan
+         sodipodi:role="line"
+         x="1478.5105"
+         y="1345.3632"
+         id="tspan131"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO FEMININO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1682.1321"
+       y="1345.3632"
+       id="text132"><tspan
+         sodipodi:role="line"
+         x="1682.1321"
+         y="1345.3632"
+         id="tspan132"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO MASCULINO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1533.6659"
+       y="1304.1855"
+       id="text133"><tspan
+         sodipodi:role="line"
+         x="1533.6659"
+         y="1304.1855"
+         id="tspan133"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">COPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1635.2878"
+       y="1278.1189"
+       id="text134"><tspan
+         sodipodi:role="line"
+         x="1635.2878"
+         y="1278.1189"
+         id="tspan134"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">RACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1480.6475"
+       y="1887.0997"
+       id="text135"><tspan
+         sodipodi:role="line"
+         x="1480.6475"
+         y="1887.0997"
+         id="tspan135"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO FEMININO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1684.2692"
+       y="1887.0997"
+       id="text136"><tspan
+         sodipodi:role="line"
+         x="1684.2692"
+         y="1887.0997"
+         id="tspan136"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">BANHEIRO MASCULINO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1527.2548"
+       y="1921.2523"
+       id="text137"><tspan
+         sodipodi:role="line"
+         x="1527.2548"
+         y="1921.2523"
+         id="tspan137"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">COPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1633.1508"
+       y="1956.0911"
+       id="text138"><tspan
+         sodipodi:role="line"
+         x="1633.1508"
+         y="1956.0911"
+         id="tspan138"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">RACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1679.0968"
+       y="2073.6277"
+       id="text139"><tspan
+         sodipodi:role="line"
+         x="1679.0968"
+         y="2073.6277"
+         id="tspan139"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 301</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1477.1477"
+       y="2074.1619"
+       id="text140"><tspan
+         sodipodi:role="line"
+         x="1477.1477"
+         y="2074.1619"
+         id="tspan140"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 302</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1679.631"
+       y="2273.4397"
+       id="text141"><tspan
+         sodipodi:role="line"
+         x="1679.631"
+         y="2273.4397"
+         id="tspan141"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 303</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1481.4215"
+       y="2273.4399"
+       id="text144"><tspan
+         sodipodi:role="line"
+         x="1481.4215"
+         y="2273.4399"
+         id="tspan144"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 304</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1480.353"
+       y="2409.1411"
+       id="text146"><tspan
+         sodipodi:role="line"
+         x="1480.353"
+         y="2409.1411"
+         id="tspan145"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1480.353"
+         y="2421.2466"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan146">TURISMO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1477.1475"
+       y="2491.4167"
+       id="text156"><tspan
+         sodipodi:role="line"
+         x="1477.1475"
+         y="2491.4167"
+         id="tspan155"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1477.1475"
+         y="2503.5222"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan156">TURISMO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1684.4392"
+       y="2494.0881"
+       id="text158"><tspan
+         sodipodi:role="line"
+         x="1684.4392"
+         y="2494.0881"
+         id="tspan157"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1684.4392"
+         y="2506.1936"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan158">TURISMO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1681.1421"
+       y="2412.8394"
+       id="text159"><tspan
+         sodipodi:role="line"
+         x="1681.1421"
+         y="2412.8394"
+         id="tspan159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA 305</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1654.6927"
+       y="478.61505"
+       id="text162"><tspan
+         sodipodi:role="line"
+         x="1654.6927"
+         y="478.61505"
+         id="tspan161"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROF.</tspan><tspan
+         sodipodi:role="line"
+         x="1654.6927"
+         y="490.72043"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan162">ECONOMIA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1481.09"
+       y="809.03839"
+       id="text166"><tspan
+         sodipodi:role="line"
+         x="1481.09"
+         y="809.03839"
+         id="tspan165"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1481.09"
+         y="821.14374"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan166">ADMINISTRAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1684.1077"
+       y="726.76282"
+       id="text168"><tspan
+         sodipodi:role="line"
+         x="1684.1077"
+         y="726.76282"
+         id="tspan167"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1684.1077"
+         y="738.86816"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan168">ADMINISTRAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1686.7789"
+       y="809.03839"
+       id="text170"><tspan
+         sodipodi:role="line"
+         x="1686.7789"
+         y="809.03839"
+         id="tspan169"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle">SALA DE PROFESSOR</tspan><tspan
+         sodipodi:role="line"
+         x="1686.7789"
+         y="821.14374"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan170">ADMINISTRAÇÃO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1483.5585"
+       y="2615.3643"
+       id="text172"><tspan
+         sodipodi:role="line"
+         x="1483.5585"
+         y="2615.3643"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan172">DIREÇÃO DO IM</tspan><tspan
+         sodipodi:role="line"
+         x="1483.5585"
+         y="2627.4697"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan173">ARQUIVO E PROTOCOLO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1364.4192"
+       y="2574.2266"
+       id="text175"><tspan
+         sodipodi:role="line"
+         x="1364.4192"
+         y="2574.2266"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan175">REPRESENTAÇÃO</tspan><tspan
+         sodipodi:role="line"
+         x="1364.4192"
+         y="2586.332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan176">PROAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1504.9288"
+       y="2729.1611"
+       id="text178"><tspan
+         sodipodi:role="line"
+         x="1504.9288"
+         y="2729.1611"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan177">REPRESENTAÇÃO</tspan><tspan
+         sodipodi:role="line"
+         x="1504.9288"
+         y="2741.2666"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan178">PROAES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1362.8164"
+       y="2678.9409"
+       id="text180"><tspan
+         sodipodi:role="line"
+         x="1362.8164"
+         y="2678.9409"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan180">GABINETE</tspan><tspan
+         sodipodi:role="line"
+         x="1362.8164"
+         y="2691.0464"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan181">DIRETOR E</tspan><tspan
+         sodipodi:role="line"
+         x="1362.8164"
+         y="2703.1516"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan182">VICE-DIRETOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1680.6992"
+       y="2615.3643"
+       id="text184"><tspan
+         sodipodi:role="line"
+         x="1680.6992"
+         y="2615.3643"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan184">DIREÇÃO DO CAMPUS</tspan><tspan
+         sodipodi:role="line"
+         x="1680.6992"
+         y="2627.4697"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan185">SPEAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1660.9316"
+       y="2732.9009"
+       id="text187"><tspan
+         sodipodi:role="line"
+         x="1660.9316"
+         y="2732.9009"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan187">SALA 311</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1805.7153"
+       y="2577.4321"
+       id="text188"><tspan
+         sodipodi:role="line"
+         x="1805.7153"
+         y="2577.4321"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan188">SAC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;line-height:1.1;fill:#000000;stroke-width:4.188"
+       x="1804.1127"
+       y="2676.804"
+       id="text191"><tspan
+         sodipodi:role="line"
+         x="1804.1127"
+         y="2676.804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan189">GABINETE</tspan><tspan
+         sodipodi:role="line"
+         x="1804.1127"
+         y="2688.9094"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan190">DIRETOR E</tspan><tspan
+         sodipodi:role="line"
+         x="1804.1127"
+         y="2701.0146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle"
+         id="tspan191">VICE-DIRETOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:4.188"
+       x="902.66602"
+       y="287.26215"
+       id="text192"><tspan
+         sodipodi:role="line"
+         id="tspan192"
+         x="902.66602"
+         y="287.26215">BLOCO INFORMÁTICA</tspan><tspan
+         sodipodi:role="line"
+         x="902.66602"
+         y="319.52878"
+         id="tspan193">3° PAVIMENTO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:4.188"
+       x="1584.3612"
+       y="285.05243"
+       id="text195"><tspan
+         sodipodi:role="line"
+         id="tspan194"
+         x="1584.3612"
+         y="285.05243">BLOCO MULTIMIDIA</tspan><tspan
+         sodipodi:role="line"
+         x="1584.3612"
+         y="317.31906"
+         id="tspan195">3° PAVIMENTO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:4.188"
+       x="1583.2563"
+       y="2927.864"
+       id="text197"><tspan
+         sodipodi:role="line"
+         id="tspan196"
+         x="1583.2563"
+         y="2927.864">BLOCO ADMINISTRATIVO</tspan><tspan
+         sodipodi:role="line"
+         x="1583.2563"
+         y="2960.1306"
+         id="tspan197">3° PAVIMENTO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:4.188"
+       x="1424.5216"
+       y="1566.8258"
+       id="text200"
+       inkscape:label="text200"><tspan
+         sodipodi:role="line"
+         id="tspan200"
+         x="1424.5216"
+         y="1566.8258"
+         style="font-size:18.6667px">RAMPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.1;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:4.188"
+       x="896.03693"
+       y="2928.9688"
+       id="text199"><tspan
+         sodipodi:role="line"
+         id="tspan198"
+         x="896.03693"
+         y="2928.9688">BLOCO BIBLOTECA</tspan><tspan
+         sodipodi:role="line"
+         x="896.03693"
+         y="2961.2354"
+         id="tspan199">3° PAVIMENTO</tspan></text>
+  </g>
+</svg>

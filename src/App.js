@@ -1,17 +1,15 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
-import './App.css';
+import FloorMap from './components/FloorMap'; // Corrigido o caminho
 
 function App() {
   return (
     <Router>
-      <div className="App">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          {/* Adicione mais rotas aqui no futuro */}
-        </Routes>
-      </div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/mapa" element={<FloorMap initialFloor="1-andar" />} /> {/* Nova rota */}
+      </Routes>
     </Router>
   );
 }
