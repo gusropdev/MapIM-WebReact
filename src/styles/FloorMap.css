@@ -1,20 +1,34 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    height: 100%;
+}
+
 .mapa-container {
     width: 100%;
-    height: 100%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: flex-start;
 }
 
-.tools {
-    margin-bottom: 10px;
+.UncontrolledReactSVGPanZoom {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
 }
 
-.tools button {
-    margin: 0 5px;
-    padding: 5px 10px;
-    font-size: 16px;
+svg {
+    width: 100%;
+    height: 100%;
+    /* Faz o SVG ocupar todo o espaço disponível */
 }
 
 img {
@@ -22,11 +36,11 @@ img {
     max-height: 90vh;
 }
 
+
 .navigation-buttons {
     display: flex;
     justify-content: space-between;
     width: 300px;
-    margin-bottom: 20px;
     margin-top: 30px;
 }
 
@@ -36,18 +50,12 @@ img {
     font-size: 18px;
     cursor: pointer;
     background-color: #04458f;
-    /* Cor de fundo */
     color: white;
-    /* Cor do texto */
     border: none;
-    /* Remove borda */
     border-radius: 5px;
-    /* Bordas arredondadas */
     transition: background-color 0.3s;
-    /* Transição suave */
 }
 
 .navigation-buttons button:hover {
     background-color: #0056b3;
-    /* Cor ao passar o mouse */
 }

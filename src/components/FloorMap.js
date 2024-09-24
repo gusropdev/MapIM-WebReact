@@ -26,8 +26,8 @@ const FloorMap = () => {
             </div>
             <h1>{currentFloor === "1-andar" ? "1º Andar" : currentFloor === "2-andar" ? "2º Andar" : "3º Andar"}</h1>
             <UncontrolledReactSVGPanZoom
-                width={800}
-                height={600}
+                width={1000}
+                height={window.innerHeight}
                 ref={setViewer}
                 tool="auto"
                 background="#fff"
@@ -35,6 +35,8 @@ const FloorMap = () => {
                 miniatureProps={{ position: 'none' }} // Remove o minimapa
                 toolbarProps={{ position: 'none' }} // Remove a barra de ferramentas
                 onChangeValue={setZoomValue} // Atualiza o zoom
+                scaleFactorMin={0.7} // Define o zoom mínimo
+                scaleFactorMax={4.5}   // Define o zoom máximo
             >
                 <svg width={1000} height={1000}>
                     <image href={`${currentFloor}.svg`} width={1000} height={1000} /> {/* Carrega o SVG do andar atual */}
