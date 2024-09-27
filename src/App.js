@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/mapa" element={<FloorMap initialFloor="1-andar" />} /> {/* Nova rota */}
+        <Route path="/mapa" element={<FloorMap initialFloor="1-andar" />} /> { }
       </Routes>
     </Router>
   );

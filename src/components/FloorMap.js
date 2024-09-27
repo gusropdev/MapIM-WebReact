@@ -4,17 +4,17 @@ import '../styles/FloorMap.css';
 
 const FloorMap = () => {
     const [viewer, setViewer] = useState(null);
-    const [currentFloor, setCurrentFloor] = useState("1-andar"); // Estado para o andar atual
+    const [currentFloor, setCurrentFloor] = useState("1-andar");
     const [zoomValue, setZoomValue] = useState(1);
 
     useEffect(() => {
         if (viewer) {
-            viewer.fitToViewer(); // Ajusta para caber na visualização
+            viewer.fitToViewer();
         }
     }, [viewer, currentFloor]);
 
     const handleFloorChange = (floor) => {
-        setCurrentFloor(floor); // Atualiza o andar atual
+        setCurrentFloor(floor);
     };
 
     return (
@@ -32,11 +32,11 @@ const FloorMap = () => {
                 tool="auto"
                 background="#fff"
                 detectAutoPan={false}
-                miniatureProps={{ position: 'none' }} // Remove o minimapa
-                toolbarProps={{ position: 'none' }} // Remove a barra de ferramentas
-                onChangeValue={setZoomValue} // Atualiza o zoom
-                scaleFactorMin={0.7} // Define o zoom mínimo
-                scaleFactorMax={4.5}   // Define o zoom máximo
+                miniatureProps={{ position: 'none' }}
+                toolbarProps={{ position: 'none' }}
+                onChangeValue={setZoomValue}
+                scaleFactorMin={0.7}
+                scaleFactorMax={4.5}
             >
                 <svg width={1000} height={1000}>
                     <image href={`${currentFloor}.svg`} width={1000} height={1000} /> {/* Carrega o SVG do andar atual */}

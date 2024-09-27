@@ -41,7 +41,38 @@ function Home() {
     const handleSuggestionClick = (suggestion) => {
         setSearchTerm(suggestion.name);
         setSuggestions([]);
-        // Aqui você pode adicionar lógica adicional, como navegar para uma página específica
+    };
+
+    const handleSearch = async () => {
+        if (searchTerm.trim() === '') return;
+
+        try {
+            const searchResponse = await fetch(`http://localhost:5096/api/search?query=${searchTerm}`);
+            if (!searchResponse.ok) {
+                throw new Error(`HTTP error! status: ${searchResponse.status}`);
+            }
+            const searchData = await searchResponse.json();
+
+            if (searchData.length === 0) {
+                console.error('Nenhum resultado encontrado');
+                return;
+            }
+
+            const entity = searchData[0];
+            console.log('Entidade encontrada:', entity);
+
+            const detailsResponse = await fetch(`http://localhost:5096/api/search/details?entityId=${entity.id}&entityType=${entity.type}`);
+            if (!detailsResponse.ok) {
+                throw new Error(`HTTP error! status: ${detailsResponse.status}`);
+            }
+            const detailsData = await detailsResponse.json();
+            console.log('Detalhes da sala:', detailsData);
+
+            // Redireciona para o mapa com os detalhes da sala
+            navigate('/mapa', { state: { roomSlug: detailsData.roomSlug } });
+        } catch (error) {
+            console.error('Erro ao buscar detalhes:', error);
+        }
     };
 
     return (
@@ -53,10 +84,11 @@ function Home() {
                         type="text"
                         value={searchTerm}
                         onChange={handleInputChange}
+                        onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
                         placeholder="Sala de aula, departamento..."
                         className="search-bar"
                     />
-                    <button className="search-button" aria-label="Pesquisar"></button>
+                    <button className="search-button" onClick={handleSearch} aria-label="Pesquisar"></button>
                     {suggestions.length > 0 && (
                         <ul className="suggestions-list">
                             {suggestions.map((suggestion) => (
