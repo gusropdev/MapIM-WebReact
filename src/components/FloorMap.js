@@ -1,11 +1,23 @@
 import React, { useState, useEffect } from 'react';
 import { UncontrolledReactSVGPanZoom } from 'react-svg-pan-zoom';
+import { useLocation } from 'react-router-dom';
 import '../styles/FloorMap.css';
 
 const FloorMap = () => {
     const [viewer, setViewer] = useState(null);
     const [currentFloor, setCurrentFloor] = useState("1-andar");
     const [zoomValue, setZoomValue] = useState(1);
+    const location = useLocation();
+    const roomFloor = location.state?.roomFloor;
+    const roomSlug = location.state?.roomSlug;
+
+    useEffect(() => {
+        if (roomFloor) {
+            setCurrentFloor(roomFloor);
+        }
+
+        console.log("Slug da sala: ", roomSlug);
+    }, [roomFloor]);
 
     useEffect(() => {
         if (viewer) {
@@ -39,7 +51,7 @@ const FloorMap = () => {
                 scaleFactorMax={4.5}
             >
                 <svg width={1000} height={1000}>
-                    <image href={`${currentFloor}.svg`} width={1000} height={1000} /> {/* Carrega o SVG do andar atual */}
+                    <image href={`${currentFloor}.svg`} width={1000} height={1000} />
                 </svg>
             </UncontrolledReactSVGPanZoom>
         </div>

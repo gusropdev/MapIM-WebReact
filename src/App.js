@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/mapa" element={<FloorMap initialFloor="1-andar" />} /> { }
+        <Route path="/mapa" element={<FloorMap />} /> { }
       </Routes>
     </Router>
   );

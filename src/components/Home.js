@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import logoCompleto from '../assets/ufrrj-logo.png';
 import '../styles/Home.css';
 
@@ -27,6 +27,7 @@ function Home() {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             const data = await response.json();
+            console.log(data);
             setSuggestions(data);
         } catch (error) {
             console.error('Erro ao buscar sugestões:', error);
@@ -42,6 +43,7 @@ function Home() {
         setSearchTerm(suggestion.name);
         setSuggestions([]);
     };
+
 
     const handleSearch = async () => {
         if (searchTerm.trim() === '') return;
@@ -68,8 +70,8 @@ function Home() {
             const detailsData = await detailsResponse.json();
             console.log('Detalhes da sala:', detailsData);
 
-            // Redireciona para o mapa com os detalhes da sala
-            navigate('/mapa', { state: { roomSlug: detailsData.roomSlug } });
+            navigate('/mapa', { state: { roomFloor: detailsData.roomFloor, roomSlug: detailsData.roomSlug } });
+
         } catch (error) {
             console.error('Erro ao buscar detalhes:', error);
         }
