@@ -70,7 +70,14 @@ function Home() {
             const detailsData = await detailsResponse.json();
             console.log('Detalhes da sala:', detailsData);
 
-            navigate('/mapa', { state: { roomFloor: detailsData.roomFloor, roomSlug: detailsData.roomSlug } });
+            // Adicione um parâmetro para indicar que o SVG deve ser modificado
+            navigate('/mapa', {
+                state: {
+                    roomFloor: detailsData.roomFloor,
+                    roomSlug: detailsData.roomSlug,
+                    highlightRoom: true // Novo parâmetro
+                }
+            });
 
         } catch (error) {
             console.error('Erro ao buscar detalhes:', error);

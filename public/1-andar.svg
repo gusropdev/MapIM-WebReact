@@ -326,7 +326,7 @@
        inkscape:label="CHEFIA DCJUR" /><path
        style="fill:none"
        d="m 1412.5563,1257.048 h 93.3602 v 70.1583 h 49.4422 v 42.8131 H 1411.7276 V 1257.048"
-       id="banheiro-fem-1andar-multi"
+       id="banheiro-fem-1andar-mult"
        inkscape:label="BANFEM" /><rect
        style="fill:none"
        id="COPA 1 ANDAR MULTI"
@@ -498,7 +498,7 @@
        y="1910.2932"
        inkscape:label="DESPENSA" /><rect
        style="fill:none"
-       id="COZINHA"
+       id="cozinha-ru"
        width="343.05728"
        height="306.04465"
        x="729.75629"
@@ -506,7 +506,7 @@
        inkscape:label="COZINHA" /><path
        style="fill:none"
        d="m 730.30872,2537.8504 h 441.94178 v -367.9165 h -97.7796 v 107.1709 H 730.86115 v 261.8505"
-       id="REFEITÓRIO"
+       id="refeitorio-ru"
        inkscape:label="REFEITÓRIO" /><rect
        style="fill:none"
        id="LABORATÓRIO MULTIDISCIPLINAR/LIFE"
